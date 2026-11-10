@@ -1,0 +1,12 @@
+{
+  "name": "Pet Shop Nova Esperança – Banho e Tosa em Osasco",
+  "short_name": "Pet Nova Esperança",
+  "icons": [
+    { "src": "assets/img/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icone-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#e36f00",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "start_url": "./"
+}
